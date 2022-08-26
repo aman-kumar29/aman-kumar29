@@ -10,7 +10,6 @@ A 2nd-year student pursuing BTech in Electrical Engineering from Indian Institut
 👨🏻‍🎓 Indian Institute of Technology, Indore 
 <br>🤖 AI/ML Enthusiast
 <br>⚒️ Competitive Programming
-<br>🌱 I’m currently learning React, Flask.
 <br>🛸 3D Animation- Blender
 </div>
 
