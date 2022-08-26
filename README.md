@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1>Hi , I'm Aman Kumar</h1>
 <!--About Me -->
 A 2nd-year student pursuing BTech in Electrical Engineering from Indian Institute of Technology Indore.
