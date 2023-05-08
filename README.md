@@ -6,9 +6,10 @@ A 2nd-year student pursuing BTech in Electrical Engineering from Indian Institut
 <h3 style="color:yellow;" > About Me </h3>  
 <div>
 👨🏻‍🎓 Indian Institute of Technology, Indore 
+ <br>🌱 I’m currently learning DSA
 <br>🤖 AI/ML Enthusiast
 <br>⚒️ Competitive Programming
-<br>🛸 3D Animation- Blender
+<br>⚒️ Web Developer
 </div>
 
 
