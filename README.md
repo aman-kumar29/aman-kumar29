@@ -1,14 +1,14 @@
 <h1>Hi , I'm Aman Kumar</h1>
 <!--About Me -->
-A 2nd-year student pursuing BTech in Electrical Engineering from Indian Institute of Technology Indore.
+A 2nd-year student pursuing a BTech in Electrical Engineering from the Indian Institute of Technology Indore.
 
 
 <h3 style="color:yellow;" > About Me </h3>  
 <div>
 👨🏻‍🎓 Indian Institute of Technology, Indore 
- <br>🌱 I’m currently learning DSA
-<br>🤖 AI/ML Enthusiast
-<br>⚒️ Competitive Programming
+<br>🌱 I’m currently learning DSA
+<br>🤖 I am an AI/ML Enthusiast.
+<br>⚒️ I love doing Competitive Programming and giving contests regularly, improving my problem-solving skills.
 <br>⚒️ Web Developer
 </div>
 
