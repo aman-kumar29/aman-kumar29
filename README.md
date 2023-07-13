@@ -19,7 +19,9 @@ You can find me here:
 <a href="mailto:amankumar76814@gmail.com"> <img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/_.aman._.k_/"> <img title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/_aman_k_/"> <img title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-
+<br>
+<br>
+<br>
 
 <!--
 **aman-kumar29/aman-kumar29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,3 +37,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aman-kumar29&count_private=true&theme=tokyonight&showicons=true)]()
+<br>
+<br>
+<br>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-kumar29&langs_count=5&theme=tokyonight)]()
+
