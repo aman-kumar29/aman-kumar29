@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 
 <!--About Me -->
-<h3 align="center">A 2nd-year student, a passionate developer, and an AI/ML enthusiast.</h3>
+<h3 align="center">A 3rd-year student, a passionate developer, and an AI/ML enthusiast.</h3>
 
 
 <h2 style="color:yellow;"> About Me </h2> 
