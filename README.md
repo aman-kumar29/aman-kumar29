@@ -57,9 +57,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aman-kumar29&count_private=true&theme=tokyonight&showicons=true)]()
-<br>
-<br>
-<br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-kumar29&langs_count=5&theme=tokyonight)]()
+<h2 align="center">My Github Statistics </h2>
+</p><p align="center">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amankumar29&theme=material-palenight" /></p>
 
+</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aman-kumar29&layout=compact&hide=html&theme=jolly" alt="Anirudh Panda" />&nbsp;&nbsp;&nbsp;&nbsp; </p>
