@@ -4,13 +4,15 @@
 <h3 align="center">A 2nd-year student, a passionate developer, and an AI/ML enthusiast.</h3>
 
 
-<h3 style="color:yellow;" > About Me </h3>  
-<div>
-👨🏻‍🎓 Indian Institute of Technology, Indore 
-<br>🌱 I’m currently working on ReactJs, NodeJs.
-<br>⚒️ I love doing Competitive Programming and giving contests regularly, improving my problem-solving skills.
-<br>⚒️ Web Developer
-</div>
+<h2 style="color:yellow;"> About Me </h2> 
+
+👨🏻‍🎓 Indian Institute of Technology, Indore.
+  
+🌱 I’m currently working on ReactJs and NodeJs.
+
+⚒️ I love doing Competitive Programming and giving contests regularly, improving my problem-solving skills.
+
+⚒️ Web Developer
 
 <h2 align="center"> 🔭 Technology Stack</h2>
 <br>
@@ -31,8 +33,8 @@
 </p>
 <br>
 
-You can find me here: 
-<p align="left">
+<h3 align = "center">You can find me here: </h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/aman-kumar29/"> <img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:amankumar76814@gmail.com"> <img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/_.aman._.k_/"> <img title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
