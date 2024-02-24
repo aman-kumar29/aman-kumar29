@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
+<h1 align="center">Konnichiwa 👋, I'm Aman Kumar</h1>
 
 <!--About Me -->
 <h3 align="center">A competitive programmer, passionate developer, and an AI/ML enthusiast.</h3>
