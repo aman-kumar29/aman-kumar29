@@ -8,7 +8,7 @@
 
 👨🏻‍🎓 Indian Institute of Technology, Indore.
   
-🌱 I’m currently learning NextJs
+🌱 I’m currently learning Spring Boot and AWS.
 
 ⚒️ I love doing Competitive Programming and giving contests regularly, improving my problem-solving skills.
 
