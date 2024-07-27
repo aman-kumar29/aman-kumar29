@@ -1,7 +1,7 @@
 <h1 align="center">Konnichiwa 👋, I'm Aman Kumar</h1>
 
 <!--About Me -->
-<h3 align="center">A competitive programmer, passionate developer, and an AI/ML enthusiast.</h3>
+<h3 align="center">An aspiring developer and a freelancer.</h3>
 
 
 <h2 style="color:yellow;"> About Me </h2> 
@@ -12,8 +12,7 @@
 
 ⚒️ I love doing Competitive Programming and giving contests regularly, improving my problem-solving skills.
 
-⚒️ Web Developer
-
+⚒️ Let's connect if you are interested in tech/anime
 <h2 align="center"> 🔭 Technology Stack</h2>
 <br>
 <p align="center">
@@ -45,7 +44,7 @@
 <a href="https://www.linkedin.com/in/aman-kumar29/"> <img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:amankumar76814@gmail.com"> <img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/_.aman._.k_/"> <img title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/_aman_k_/"> <img title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://x.com/_aman_k_/"> <img title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <br>
 <br>
 <br>
