@@ -1,14 +1,14 @@
 <h1 align="center">Konnichiwa 👋, I'm Aman Kumar</h1>
 
 <!--About Me -->
-<h3 align="center">An aspiring developer and a freelancer.</h3>
+<h3 align="center"> a web developer and a freelancer.</h3>
 
 
-<h2 style="color:yellow;"> About Me </h2> 
+<h2 style="color:yellow;"> about me </h2> 
 
 👨🏻‍🎓 Indian Institute of Technology, Indore.
   
-🌱 I’m currently learning Spring Boot and AWS.
+🌱 I’m currently learning NextJs, Spring Boot, and AWS.
 
 ⚒️ I love doing Competitive Programming and giving contests regularly, improving my problem-solving skills.
 
