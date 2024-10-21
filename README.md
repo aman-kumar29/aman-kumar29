@@ -1,5 +1,3 @@
-<img align="right" src="https://visitcount.itsvg.in/api?id=AdityaLahane-2003&icon=8&color=0">
-
 <h1 align="center">Konnichiwa 👋, I'm Aman Kumar</h1>
 
 <!--About Me -->
