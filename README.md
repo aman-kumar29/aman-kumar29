@@ -8,7 +8,7 @@
 
 👨🏻‍🎓 Indian Institute of Technology, Indore.
   
-🌱 I’m currently learning NextJs, Spring Boot, and AWS.
+🌱 I’m currently learning Spring Boot, and CI/CD pipeline using GitHub Actions to deploy and test the changes automatically.
 
 ⚒️ I love doing Competitive Programming and giving contests regularly, improving my problem-solving skills.
 
