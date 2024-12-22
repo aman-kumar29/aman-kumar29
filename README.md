@@ -12,6 +12,8 @@
 
 ⚒️ I love doing Competitive Programming and giving contests regularly, improving my problem-solving skills.
 
+⚒️ Currently utilizing AWS services to build a backend application and learning along the way.
+
 ⚒️ Let's connect if you are interested in tech/anime
 <h2 align="center"> 🔭 Technology Stack</h2>
 <br>
